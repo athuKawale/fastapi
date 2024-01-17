@@ -21,7 +21,7 @@
 2. **Installation:**
 
    ```bash
-   git clone https://github.com/your-username/iNote.git
+   git clone https://github.com/athuKawale/fastapi.git
    cd iNote
    pip install -r requirements.txt
    ```
