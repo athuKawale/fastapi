@@ -5,10 +5,9 @@
 ## Features
 
 - **Simple and intuitive interface**
-- **Seamless note creation and editing**
-- **Organize notes with tags and folders**
-- **Full-text search to find notes quickly**
-- **Dark mode for comfortable night-time note-taking**
+- **Seamless note creation and organizing**
+- **Organize notes with tags**
+- **Full-text search to find notes quickly**(Comming Soon!)
 - **Securely stored in MongoDB Atlas for reliability and scalability**
 
 ## Getting Started
